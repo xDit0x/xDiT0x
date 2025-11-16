@@ -1,44 +1,74 @@
-creeame un readme para github, resumen con mi # Curriculum Vitae
+Pedro Martínez Cernadas
+👨‍💻 Perfil Profesional
+Estudiante de segundo curso de Ingeniería Informática con alto desempeño académico y piloto certificado de drones. Destaco por mi responsabilidad, capacidad de aprendizaje rápido y habilidades avanzadas en lengua inglesa. Enfocado en el desarrollo de software y aplicaciones web innovadoras.
 
-## Datos personales
+📞 Datos de Contacto
+Nombre: Pedro Martínez Cernadas
 
-**Nombre:** Pedro Martínez Cernadas
-**Fecha de nacimiento:** 22 de septiembre de 2002
+Fecha de nacimiento: 22 de septiembre de 2002
 
-## Perfil profesional
+🎓 Formación Académica
+Grado en Ingeniería Informática
+Universidad Europea (UE)
 
-Estudiante de segundo curso de Ingeniería Informática con alto desempeño académico y piloto certificado STS-ES-01 y STS-ES-02. Destaca por su responsabilidad, capacidad de aprendizaje rápido y habilidades avanzadas en lengua inglesa.
+Cursando actualmente (segundo curso)
 
-## Formación académica
+Nota media del primer curso: 9.4
 
-* **Grado en Ingeniería Informática** – Universidad Europea (UE)
-  *Cursando actualmente*
-  **Nota media del primer curso:** 9.4
+Bachillerato Científico
+Nota media: 8.26
 
-* **Bachillerato Científico**
-  **Nota media:** 8.26
+📜 Certificaciones
+Piloto STS-ES-01 - Operador de drones
 
-## Certificaciones
+Piloto STS-ES-02 - Operador de drones
 
-* **Piloto STS-ES-01**
-* **Piloto STS-ES-02**
-* **Cambridge English Advanced (C1)**
-  Puntuación total: **182** – *Pass at Grade A*
-* **Certificado de Valenciano (C1)** – Lengua oficial regional de España
+Cambridge English Advanced (C1)
 
-## Competencias
+Puntuación total: 182 - Pass at Grade A
 
-* Operación de drones bajo normativa STS en España
-* Programación y fundamentos de ingeniería informática
-* Dominio del inglés (nivel C1 certificado)
-* Pensamiento analítico y resolución de problemas
+Certificado de Valenciano (C1) - Lengua oficial regional de España
 
-## Habilidades adicionales
+💻 Competencias Técnicas
+Lenguajes de Programación
+Java (Avanzado)
 
-* Manejo de herramientas informáticas y software técnico
-* Trabajo en equipo y comunicación efectiva
-* Programación en **Java (avanzado)**, **C++**, **JavaScript (básico)**, **HTML**, **CSS** y **React**
+C++
 
-## Información adicional
+JavaScript (Básico)
 
-Enfocado en el desarrollo de software y páginas web. Actualmente desarrollando una aplicación médica orientada a mejorar la eficiencia del sistema de consultas mediante Inteligencia Artificial.
+HTML
+
+CSS
+
+React
+
+Habilidades Técnicas
+Operación de drones bajo normativa STS en España
+
+Programación y fundamentos de ingeniería informática
+
+Desarrollo de aplicaciones web
+
+Manejo de herramientas informáticas y software técnico
+
+Pensamiento analítico y resolución de problemas
+
+Habilidades Personales
+Trabajo en equipo y comunicación efectiva
+
+Responsabilidad y compromiso
+
+Capacidad de aprendizaje rápido
+
+Dominio del inglés (nivel C1 certificado)
+
+🚀 Proyectos Actuales
+Aplicación Médica con IA
+Desarrollo de una aplicación médica orientada a mejorar la eficiencia del sistema de consultas mediante Inteligencia Artificial.
+
+🎯 Objetivos Profesionales
+Busco oportunidades para aplicar mis conocimientos en ingeniería informática, especialmente en desarrollo de software y aplicaciones web, mientras continúo mi formación académica y profesional.
+
+Última actualización: [Fecha]
+
