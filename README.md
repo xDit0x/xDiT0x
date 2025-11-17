@@ -6,7 +6,7 @@
 
 ## 📋 Resumen Profesional
 
-Estudiante de segundo curso de **Ingeniería Informática** con alto desempeño académico y piloto certificado de drones. Destaco por mi responsabilidad, capacidad de aprendizaje rápido y habilidades avanzadas en lengua inglesa. Enfocado en el desarrollo de software y aplicaciones web innovadoras.
+Estudiante de segundo curso de **Ingeniería Informática** y piloto certificado de drones. Destaco por mi responsabilidad, capacidad de aprendizaje rápido y habilidades avanzadas en lengua inglesa. Enfocado en el desarrollo de software y aplicaciones web innovadoras.
 
 ---
 
@@ -14,11 +14,9 @@ Estudiante de segundo curso de **Ingeniería Informática** con alto desempeño 
 
 ### **Grado en Ingeniería Informática** 
 `🏫 Universidad Europea (UE)` | `📅 Cursando actualmente`
-- **Nota media del primer curso:** 9.4/10
 - Especial interés en desarrollo de software e inteligencia artificial
 
 ### **Bachillerato Científico**
-- **Nota media:** 8.26/10
 
 ---
 
