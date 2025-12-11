@@ -1,8 +1,8 @@
 # Pedro Martínez Cernadas 👨‍💻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:tu-email@dominio.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:pedromarcer02@gmail.com)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen)]()
+[![IT Specialist - Java](https://img.shields.io/badge/Credly-IT_Specialist_Java-FF6B35?logo=credly&logoColor=white)](https://www.credly.com/badges/cc280784-3150-47b8-8aaa-8042a0086b25/public_url)
 
 ## 📋 Resumen Profesional
 
@@ -28,14 +28,14 @@ Estudiante de segundo curso de **Ingeniería Informática** y piloto certificado
 | 🚁 **Piloto STS-ES-02** | AESA | ✅ Obtenido |
 | 🇬🇧 **Cambridge English Advanced (C1)** | Cambridge | ✅ **182/210** (Grade A) |
 | 🗣️ **Certificado de Valenciano (C1)** | JQCV | ✅ Obtenido |
+| ☕ **IT Specialist - Java** | Certiport/Credly | ✅ [Ver credencial](https://www.credly.com/badges/your-badge-id) |
 
 ---
 
 ## 💻 Stack Tecnológico
 
 ### **Lenguajes de Programación**
-![Java](https://img.shields.io/badge/Java-Advanced-orange?style=flat-square) IT Specialist - JAVA
-https://www.credly.com/badges/cc280784-3150-47b8-8aaa-8042a0086b25/public_url
+[![IT Specialist - Java](https://img.shields.io/badge/Java-IT_Specialist-orange?style=flat-square&logo=java&logoColor=white)](https://www.credly.com/badges/your-badge-id)
 ![C++](https://img.shields.io/badge/C++-Intermediate-blue?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Básico-yellow?style=flat-square)
 
@@ -53,6 +53,7 @@ https://www.credly.com/badges/cc280784-3150-47b8-8aaa-8042a0086b25/public_url
 - Desarrollo de aplicaciones web
 - Fundamentos de ingeniería de software
 - Resolución de problemas algorítmicos
+- **Certificación IT Specialist en Java**
 
 ### **Operación de Drones**
 - Operación bajo normativa STS-ES
@@ -97,7 +98,8 @@ https://www.credly.com/badges/cc280784-3150-47b8-8aaa-8042a0086b25/public_url
 nota_media_ingenieria = 9.4
 nota_bachillerato = 8.26
 nivel_ingles = "C1 (182/210)"
-certificaciones = 4
+certificaciones = 5  # Incluye IT Specialist - Java
+certificacion_java = "IT Specialist"
 ```
 
 ---
@@ -108,6 +110,7 @@ certificaciones = 4
 - 📚 **Continuar formación** en inteligencia artificial y machine learning
 - 🌐 **Participar en proyectos** innovadores que generen impacto social
 - 🚀 **Contribuir al desarrollo** de soluciones tecnológicas avanzadas
+- ☕ **Aplicar conocimientos certificados** de Java en proyectos reales
 
 ---
 
@@ -115,10 +118,6 @@ certificaciones = 4
 
 - 📧 **Email**: [xxelditoxx@gmail.com](mailto:xxelditoxx@gmail.com)
 - 🏫 **Universidad**: Universidad Europea
+- 🏆 **Credly**: [Perfil de certificaciones](https://www.credly.com/users/pedro-martinez-cernadas)
 
 ---
-
-> *"Comprometido con la excelencia académica y el desarrollo de soluciones tecnológicas innovadoras"*
-
----
-*📅 Última actualización: Noviembre 2025*
