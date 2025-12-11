@@ -34,7 +34,8 @@ Estudiante de segundo curso de **Ingeniería Informática** y piloto certificado
 ## 💻 Stack Tecnológico
 
 ### **Lenguajes de Programación**
-![Java](https://img.shields.io/badge/Java-Advanced-orange?style=flat-square)
+![Java](https://img.shields.io/badge/Java-Advanced-orange?style=flat-square) IT Specialist - JAVA
+https://www.credly.com/badges/cc280784-3150-47b8-8aaa-8042a0086b25/public_url
 ![C++](https://img.shields.io/badge/C++-Intermediate-blue?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Básico-yellow?style=flat-square)
 
