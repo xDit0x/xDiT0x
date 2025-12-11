@@ -28,7 +28,7 @@ Estudiante de segundo curso de **Ingeniería Informática** y piloto certificado
 | 🚁 **Piloto STS-ES-02** | AESA | ✅ Obtenido |
 | 🇬🇧 **Cambridge English Advanced (C1)** | Cambridge | ✅ **182/210** (Grade A) |
 | 🗣️ **Certificado de Valenciano (C1)** | JQCV | ✅ Obtenido |
-| ☕ **IT Specialist - Java** | Certiport/Credly | ✅ [Ver credencial](https://www.credly.com/badges/your-badge-id) |
+| ☕ **IT Specialist - Java** | Certiport/Credly | ✅ [Ver credencial](https://www.credly.com/badges/cc280784-3150-47b8-8aaa-8042a0086b25/public_url) |
 
 ---
 
