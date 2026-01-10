@@ -116,7 +116,7 @@ certificacion_java = "IT Specialist"
 
 ## 📞 Contacto
 
-- 📧 **Email**: [xxelditoxx@gmail.com](mailto:xxelditoxx@gmail.com)
+- 📧 **Email**: [pedromarcer02@gmail.com](mailto:pedromarcer02@gmail.com)
 - 🏫 **Universidad**: Universidad Europea
 - 🏆 **Credly**: [Perfil de certificaciones](https://www.credly.com/users/pedro-martinez-cernadas)
 
