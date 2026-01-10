@@ -95,7 +95,6 @@ Estudiante de segundo curso de **Ingeniería Informática** y piloto certificado
 
 ```python
 # Rendimiento Académico
-nota_media_ingenieria = 9.4
 nota_bachillerato = 8.26
 nivel_ingles = "C1 (182/210)"
 certificaciones = 5  # Incluye IT Specialist - Java
