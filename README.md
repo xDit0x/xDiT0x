@@ -119,4 +119,5 @@ certificacion_java = "IT Specialist"
 - 🏫 **Universidad**: Universidad Europea
 - 🏆 **Credly**: [Perfil de certificaciones](https://www.credly.com/users/pedro-martinez-cernadas)
 
----
+---[Curriculum Vitae.pdf](https://github.com/user-attachments/files/24569206/Curriculum.Vitae.pdf)
+
