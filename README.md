@@ -1,5 +1,5 @@
 # Pedro Martínez Cernadas 👨‍💻
-[**SI DESEA VER MI CURRICULUM**](https://github.com/xDit0x/xDiT0x/blob/main/Curriculum%20Vitae.pdf)
+[**Si desea ver mi curriculum**](https://github.com/xDit0x/xDiT0x/blob/main/Curriculum%20Vitae.pdf)
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:pedromarcer02@gmail.com)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen)]()
