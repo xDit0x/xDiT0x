@@ -2,8 +2,6 @@
   <sub>• • •</sub>
 </div>  
 
-  
-
 ## 🇪🇸 PERFIL en Español
 
 ---
