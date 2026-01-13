@@ -126,6 +126,7 @@ certificacion_java = "IT Specialist"
 - 🏆 **Credly**: [Perfil de certificaciones](https://www.credly.com/users/pedro-martinez-cernadas)
   
 
+---
 
 ## 🇬🇧 English Profile
 
