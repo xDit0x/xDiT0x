@@ -1,6 +1,6 @@
 
 
-## 🇪🇸 PERFIL en Español
+## 🇪🇸 Perfil en Español
 
 ---
 # Pedro Martínez Cernadas 👨‍💻
@@ -127,7 +127,7 @@ certificacion_java = "IT Specialist"
   
 
 
-## 🇬🇧 English PROFILE
+## 🇬🇧 English Profile
 
 ---
 
