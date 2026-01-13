@@ -1,8 +1,6 @@
 
+## 🇪🇸 Perfil en Español 
 
-<div align="center">
-🇪🇸 Perfil en Español
-</div>
 ---
 # Pedro Martínez Cernadas 👨‍💻
 [**HAGA CLICK si desea ver mi curriculum**](https://github.com/xDit0x/xDiT0x/blob/main/Curriculum%20Vitae.pdf)
