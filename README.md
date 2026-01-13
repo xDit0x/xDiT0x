@@ -1,5 +1,5 @@
 
-## 🇪🇸 Perfil en Español 
+<h1 align="center"> 🇪🇸 Perfil en Español </h1>
 
 ---
 # Pedro Martínez Cernadas 👨‍💻
