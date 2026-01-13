@@ -107,10 +107,10 @@ certificacion_java = "IT Specialist"
 ## 🎯 Objetivos Profesionales
 
 - 🔍 **Busco oportunidades** en desarrollo de software y aplicaciones web
-- 📚 **Continuar formación** en inteligencia artificial y machine learning
-- 🌐 **Participar en proyectos** innovadores que generen impacto social
-- 🚀 **Contribuir al desarrollo** de soluciones tecnológicas avanzadas
-- ☕ **Aplicar conocimientos certificados** de Java en proyectos reales
+- 📚 **Continuar formación** en inteligencia artificial y machine learning para la continuación en programas de la nueva era
+- 🌐 **Participar en proyectos** innovadores que generen impacto social y trascendencia histórica **(MAYOR OBJETIVO 🎯)**
+- 🚀 **Contribuir al desarrollo** de soluciones tecnológicas avanzadas bajo un equipo enfocado en la búsqueda de la excelencia en la codificación
+- ☕ **Aplicar mis conocimientos certificados** de Java en proyectos reales, y de gran relevancia en el sector tecnológico
 
 ---
 
