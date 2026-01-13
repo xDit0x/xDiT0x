@@ -127,7 +127,7 @@ certificacion_java = "IT Specialist"
 
 ---
 
-## 🇬🇧 English Profile
+<h1 align="center"> 🇬🇧 English Profile </h1>
 
 ---
 
