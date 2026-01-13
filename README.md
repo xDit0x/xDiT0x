@@ -1,6 +1,10 @@
+<div align="center">
+  <sub>• • •</sub>
+</div>  
 
+  
 
-## 🇪🇸 Contenido en Español
+## 🇪🇸 PERFIL en Español
 
 ---
 # Pedro Martínez Cernadas 👨‍💻
@@ -127,12 +131,12 @@ certificacion_java = "IT Specialist"
   
 
 
-## 🇬🇧 English Content
+## 🇬🇧 English PROFILE
 
 ---
 
 # Pedro Martínez Cernadas 👨‍💻
-**[CLICK HERE to view my CV]** (https://github.com/xDit0x/xDiT0x/blob/main/Curriculum%20Vitae.pdf)
+[**CLICK HERE to view my CV**](https://github.com/xDit0x/xDiT0x/blob/main/Curriculum%20Vitae.pdf)
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:pedromarcer02@gmail.com)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen)]()
