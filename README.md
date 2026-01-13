@@ -120,8 +120,26 @@ certificacion_java = "IT Specialist"
 - 🏫 **Universidad**: Universidad Europea
 - 🏆 **Credly**: [Perfil de certificaciones](https://www.credly.com/users/pedro-martinez-cernadas)
   
-  ––––––––––––––––––––––––––––---------------       ENGLISH VERSION       ––––––––––––––––––––––––––––-----------------
-  
+# 🌍 Idiomas / Languages
+
+<div align="center">
+  <img src="https://img.shields.io/badge/ESPAÑOL_Castellano-AA0000?style=for-the-badge&logo=spain&logoColor=white" alt="Español" />
+  <img src="https://img.shields.io/badge/ENGLISH_Inglés-0000AA?style=for-the-badge&logo=greatbritain&logoColor=white" alt="English" />
+</div>
+
+---
+
+## 🇪🇸 Contenido en Español
+
+---
+
+## 🇬🇧 English Content
+
+---
+
+<div align="center">
+  <sub>• • •</sub>
+</div>  
   # Pedro Martínez Cernadas 👨‍💻
 **[CLICK HERE to view my CV]** (https://github.com/xDit0x/xDiT0x/blob/main/Curriculum%20Vitae.pdf)
 
