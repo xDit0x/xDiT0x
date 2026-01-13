@@ -119,7 +119,9 @@ certificacion_java = "IT Specialist"
 - 📧 **Email**: [pedromarcer02@gmail.com](mailto:pedromarcer02@gmail.com)
 - 🏫 **Universidad**: Universidad Europea
 - 🏆 **Credly**: [Perfil de certificaciones](https://www.credly.com/users/pedro-martinez-cernadas)
-  ––––––––––––––––––––––––––––-----------------        ENGLISH VERSION       ––––––––––––––––––––––––––––-----------------
+  
+  ––––––––––––––––––––––––––––---------------       ENGLISH VERSION       ––––––––––––––––––––––––––––-----------------
+  
   # Pedro Martínez Cernadas 👨‍💻
 **[CLICK HERE to view my CV]** (https://github.com/xDit0x/xDiT0x/blob/main/Curriculum%20Vitae.pdf)
 
