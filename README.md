@@ -74,7 +74,7 @@ Estudiante de segundo curso de **Ingeniería Informática** y piloto certificado
 
 ## 🚀 Proyecto Actual
 
-<img src="LogosProIng.png" width="300" alt="DRBOT logo">
+<img src="LogosProIng.png" width="200" align="center" alt="DRBOT logo">
 
 ### **🏥 Aplicación Médica con IA**
 **Descripción:** Desarrollo de una aplicación médica orientada a mejorar la eficiencia del sistema de consultas mediante **Inteligencia Artificial**.
@@ -205,7 +205,7 @@ Second-year **Computer Engineering** student and certified drone pilot. I stand 
 
 ## 🚀 Current Project
 
-<img src="LogosProIng.png" width="300" alt="DRBOT logo">
+<img src="LogosProIng.png" width="200" align="center" alt="DRBOT logo">
 
 ### **🏥 Medical Application with AI**
 **Description:** Development of a medical application aimed at improving the efficiency of the consultation system through **Artificial Intelligence**.
