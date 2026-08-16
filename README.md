@@ -3,7 +3,7 @@
 
 ---
 # Pedro Martínez Cernadas 👨‍💻
-[**HAGA CLICK si desea ver mi curriculum**](https://github.com/xDit0x/xDiT0x/blob/main/Curriculum%20Vitae.pdf)
+[**HAGA CLICK si desea ver mi curriculum**](https://github.com/xDit0x/xDiT0x/blob/main/PEDRO%20MARTI%CC%81NEZ%20CERNADAS.pdf)
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:pedromarcer02@gmail.com)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen)]()
@@ -136,7 +136,7 @@ certificacion_java = "IT Specialist"
 ---
 
 # Pedro Martínez Cernadas 👨‍💻
-[**CLICK HERE to view my CV**](https://github.com/xDit0x/xDiT0x/blob/main/Curriculum%20Vitae.pdf)
+[**CLICK HERE to view my CV**](https://github.com/xDit0x/xDiT0x/blob/main/PEDRO%20MARTI%CC%81NEZ%20CERNADAS.pdf)
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:pedromarcer02@gmail.com)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen)]()
