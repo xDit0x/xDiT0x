@@ -101,6 +101,8 @@ Second-year **Computer Engineering** student and certified drone pilot. I stand 
 
 **Description:** Development of an application that automates the stock replenishment of stores through an **Artificial Intelligence agent**: the agent checks the stock of the store, prepares orders with the suppliers and pays them through **PayPal**, always within the spending rules set by the owner.
 
+**Hackathon:** 🏆 Entry for the [PayPal AI Hackathon](https://devpost.com/) — built with the **PayPal API (Sandbox)** and a **Groq AI** model.
+
 **Technologies:**
 `Flutter` `TypeScript` `Fastify` `Supabase` `Groq AI` `PayPal API` `Vercel`
 
@@ -276,6 +278,8 @@ Estudiante de segundo curso de **Ingeniería Informática** y piloto certificado
 </p>
 
 **Descripción:** Desarrollo de una aplicación que automatiza la reposición de stock de las tiendas mediante un **agente de Inteligencia Artificial**: el agente revisa el stock, prepara pedidos con los proveedores y los paga mediante **PayPal**, siempre dentro de las reglas de gasto que marca el dueño.
+
+**Hackathon:** 🏆 Participa en el [PayPal AI Hackathon](https://devpost.com/) — construido con la **API de PayPal (Sandbox)** y un modelo de **Groq AI**.
 
 **Tecnologías:**
 `Flutter` `TypeScript` `Fastify` `Supabase` `Groq AI` `PayPal API` `Vercel`
