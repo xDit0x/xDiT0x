@@ -94,6 +94,11 @@ Second-year **Computer Engineering** student and certified drone pilot. I stand 
 ---
 
 ### **🛒 Stocky — AI-Powered Store Restocking** *(New Project 🆕)*
+
+<p align="center">
+  <img src="stocky_logo.png" width="200" alt="Stocky logo">
+</p>
+
 **Description:** Development of an application that automates the stock replenishment of stores through an **Artificial Intelligence agent**: the agent checks the stock of the store, prepares orders with the suppliers and pays them through **PayPal**, always within the spending rules set by the owner.
 
 **Technologies:**
@@ -106,6 +111,11 @@ Second-year **Computer Engineering** student and certified drone pilot. I stand 
 ---
 
 ### **✂️ Snip — Booking & Management for Barbers and Salons** *(New Project 🆕)*
+
+<p align="center">
+  <img src="snip_logo.png" width="200" alt="Snip logo">
+</p>
+
 **Description:** Development of a booking and management application for barbershops and hair salons, focused on the Spanish and Chilean markets.
 
 **Technologies:**
@@ -260,6 +270,11 @@ Estudiante de segundo curso de **Ingeniería Informática** y piloto certificado
 ---
 
 ### **🛒 Stocky — Reposición Automática de Tiendas con IA** *(Proyecto Nuevo 🆕)*
+
+<p align="center">
+  <img src="stocky_logo.png" width="200" alt="Logo de Stocky">
+</p>
+
 **Descripción:** Desarrollo de una aplicación que automatiza la reposición de stock de las tiendas mediante un **agente de Inteligencia Artificial**: el agente revisa el stock, prepara pedidos con los proveedores y los paga mediante **PayPal**, siempre dentro de las reglas de gasto que marca el dueño.
 
 **Tecnologías:**
@@ -272,6 +287,11 @@ Estudiante de segundo curso de **Ingeniería Informática** y piloto certificado
 ---
 
 ### **✂️ Snip — Reservas y Gestión para Barberías y Peluquerías** *(Proyecto Nuevo 🆕)*
+
+<p align="center">
+  <img src="snip_logo.png" width="200" alt="Logo de Snip">
+</p>
+
 **Descripción:** Desarrollo de una aplicación de reservas y gestión para barberías y peluquerías, orientada a los mercados de **España y Chile**.
 
 **Tecnologías:**
