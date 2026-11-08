@@ -1,4 +1,3 @@
-
 <h1 align="center"> 🇬🇧 English Profile </h1>
 
 ---
@@ -50,6 +49,9 @@ Second-year **Computer Engineering** student and certified drone pilot. I stand 
 ![CSS3](https://img.shields.io/badge/CSS3-Expert-1572B6?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/React-Learning-61DAFB?style=flat-square&logo=react)
 
+### **Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
 ---
 
 ## 🛠️ Technical Skills
@@ -57,6 +59,7 @@ Second-year **Computer Engineering** student and certified drone pilot. I stand 
 ### **Development & Programming**
 - Object-Oriented Programming
 - Web Application Development
+- Mobile Application Development (Flutter)
 - Software Engineering Fundamentals
 - Algorithmic Problem Solving
 - **IT Specialist Certification in Java**
@@ -73,19 +76,44 @@ Second-year **Computer Engineering** student and certified drone pilot. I stand 
 
 ---
 
-## 🚀 Current Project
+## 🚀 Projects
+
+### **🏥 Medical Application with AI** *(Current Project)*
 
 <p align="center">
   <img src="LogosProIng.png" width="200" alt="DRBOT logo">
 </p>
 
-### **🏥 Medical Application with AI**
 **Description:** Development of a medical application aimed at improving the efficiency of the consultation system through **Artificial Intelligence**.
 
 **Technologies:**
 `Java` `React` `AI/ML` `Web Development`
 
 **Goal:** Optimize medical appointment management and improve the patient experience.
+
+---
+
+### **🛒 Stocky — AI-Powered Store Restocking** *(New Project 🆕)*
+**Description:** Development of an application that automates the stock replenishment of stores through an **Artificial Intelligence agent**: the agent checks the stock of the store, prepares orders with the suppliers and pays them through **PayPal**, always within the spending rules set by the owner.
+
+**Technologies:**
+`Flutter` `TypeScript` `Fastify` `Supabase` `Groq AI` `PayPal API` `Vercel`
+
+**Goal:** Optimize the management of store stock, supplier orders and purchasing decisions through AI-driven automation.
+
+**Live demo:** [https://stocky-app-theta.vercel.app](https://stocky-app-theta.vercel.app)
+
+---
+
+### **✂️ Snip — Booking & Management for Barbers and Salons** *(New Project 🆕)*
+**Description:** Development of a booking and management application for barbershops and hair salons, focused on the Spanish and Chilean markets.
+
+**Technologies:**
+`Flutter` `Supabase`
+
+**Goal:** Manage real-time availability, appointments, payments, loyalty programs and public booking links (`/b/<slug>`).
+
+**Repository:** [github.com/xDit0x/snip-flutter-app](https://github.com/xDit0x/snip-flutter-app)
 
 ---
 
@@ -139,6 +167,7 @@ java_certification = "IT Specialist"
 <h1 align="center"> 🇪🇸 Perfil en Español </h1>
 
 ---
+
 # Pedro Martínez Cernadas 👨‍💻
 [**HAGA CLICK si desea ver mi curriculum**](https://github.com/xDit0x/xDiT0x/blob/main/PEDRO%20MARTI%CC%81NEZ%20CERNADAS.pdf)
 
@@ -186,6 +215,9 @@ Estudiante de segundo curso de **Ingeniería Informática** y piloto certificado
 ![CSS3](https://img.shields.io/badge/CSS3-Expert-1572B6?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/React-Learning-61DAFB?style=flat-square&logo=react)
 
+### **Desarrollo Móvil**
+![Flutter](https://img.shields.io/badge/Flutter-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
 ---
 
 ## 🛠️ Habilidades Técnicas
@@ -193,6 +225,7 @@ Estudiante de segundo curso de **Ingeniería Informática** y piloto certificado
 ### **Desarrollo & Programación**
 - Programación orientada a objetos
 - Desarrollo de aplicaciones web
+- Desarrollo de aplicaciones móviles (Flutter)
 - Fundamentos de ingeniería de software
 - Resolución de problemas algorítmicos
 - **Certificación IT Specialist en Java**
@@ -209,19 +242,44 @@ Estudiante de segundo curso de **Ingeniería Informática** y piloto certificado
 
 ---
 
-## 🚀 Proyecto Actual
+## 🚀 Proyectos
+
+### **🏥 Aplicación Médica con IA** *(Proyecto Actual)*
 
 <p align="center">
   <img src="LogosProIng.png" width="200" alt="DRBOT logo">
 </p>
 
-### **🏥 Aplicación Médica con IA**
 **Descripción:** Desarrollo de una aplicación médica orientada a mejorar la eficiencia del sistema de consultas mediante **Inteligencia Artificial**.
 
 **Tecnologías:** 
 `Java` `React` `AI/ML` `Web Development`
 
 **Objetivo:** Optimizar la gestión de consultas médicas y mejorar la experiencia del paciente.
+
+---
+
+### **🛒 Stocky — Reposición Automática de Tiendas con IA** *(Proyecto Nuevo 🆕)*
+**Descripción:** Desarrollo de una aplicación que automatiza la reposición de stock de las tiendas mediante un **agente de Inteligencia Artificial**: el agente revisa el stock, prepara pedidos con los proveedores y los paga mediante **PayPal**, siempre dentro de las reglas de gasto que marca el dueño.
+
+**Tecnologías:**
+`Flutter` `TypeScript` `Fastify` `Supabase` `Groq AI` `PayPal API` `Vercel`
+
+**Objetivo:** Optimizar la gestión del stock, los pedidos a proveedores y las compras mediante la automatización impulsada por IA.
+
+**Demo en vivo:** https://stocky-app-theta.vercel.app
+
+---
+
+### **✂️ Snip — Reservas y Gestión para Barberías y Peluquerías** *(Proyecto Nuevo 🆕)*
+**Descripción:** Desarrollo de una aplicación de reservas y gestión para barberías y peluquerías, orientada a los mercados de **España y Chile**.
+
+**Tecnologías:**
+`Flutter` `Supabase`
+
+**Objetivo:** Gestión de disponibilidad en tiempo real, reservas, pagos, fidelidad y enlaces públicos de reserva (`/b/<slug>`).
+
+**Repositorio:** https://github.com/xDit0x/snip-flutter-app
 
 ---
 
